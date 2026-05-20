@@ -1,0 +1,35 @@
+<resources>
+
+    <string name="bin_str_deleteall">সব মুছে ফেলুন</string>
+    <string name="bin_str_recoverall">সব পুনরুদ্ধার</string>
+    <string name="bin_str_service_description">রিসাইকেল বিন এই পরিষেবাটি ব্যবহার করে</string>
+
+
+    <string name="bin_app_name">রিকভারি বিন</string>
+    <string name="bin_str_emptyfolder">বিন বর্তমানে [খালি], কিছুই এখনও মুছে ফেলা হয়নি। আপনি মুছে ফেলার পরে মুছে ফেলা ফাইল এখানে প্রদর্শিত হবে. অ্যাপটি পুনরায় খুললে বেশিরভাগ সমস্যা যেমন ফাইলগুলি মুছে ফেলার পরে দেখা যাচ্ছে না ঠিক করতে পারে৷</string>
+    <string name="tra_alerttitle_terms">ব্যবহারের শর্তাবলী এবং আইনি দাবিত্যাগ</string>
+    <string name="tra_alertbody_disclaimer">যেকোনো ফাইল সম্পর্কিত অ্যাপ ব্যবহার করার আগে ডিভাইস মিডিয়ার ব্যাকআপ নেওয়া সবচেয়ে ভালো অভ্যাস। AAinc এই অ্যাপের সাথে সম্পর্কিত সমস্ত অধিকার সংরক্ষণ করে। আমরা কোন প্রত্যক্ষ, পরোক্ষ, আনুষঙ্গিক, বিশেষ, অনুকরণীয়, বা ফলস্বরূপ ক্ষতির জন্য কোন দায়বদ্ধতা এবং কোন দায়বদ্ধতা গ্রহণ করি না (সহ, কিন্তু সীমাবদ্ধ নয়: পণ্য বা পরিষেবা সংগ্রহ; ডেটা, ডিভাইস, বা লাভের ক্ষতি এবং ক্ষতি; বা ব্যবসায়িক বাধা ) তবে সৃষ্ট এবং দায়বদ্ধতার যে কোনো তত্ত্বের উপর, চুক্তিতে হোক না কেন, কঠোর দায়বদ্ধতা, নির্যাতন (অবহেলা বা অন্যথা সহ), বা অন্য কোনো তত্ত্ব যা এই সিস্টেমের ব্যবহার থেকে উদ্ভূত হয়, এমনকি যদি এই ধরনের ক্ষতির সম্ভাবনার পরামর্শ দেওয়া হয় . দায়বদ্ধতার এই অস্বীকৃতি যেকোন ক্ষতি বা আঘাতের ক্ষেত্রে প্রযোজ্য, তা চুক্তির কথিত লঙ্ঘনের উপর ভিত্তি করে, অশালীন আচরণ, অবহেলা বা কর্মের অন্য কোন কারণের উপর ভিত্তি করে, যার মধ্যে পারফরম্যান্সের ব্যর্থতা, ত্রুটি, বাদ দেওয়া, বাধার কারণে ক্ষতি বা আঘাতের মধ্যে সীমাবদ্ধ নয়। , মুছে ফেলা, ত্রুটি, অপারেশন বা ট্রান্সমিশনে বিলম্ব, কম্পিউটার ভাইরাস, যোগাযোগ লাইন ব্যর্থতা, এবং/অথবা চুরি, ধ্বংস বা অননুমোদিত অ্যাক্সেস, পরিবর্তন, বা কোনো রেকর্ড ব্যবহার।</string>
+    <string name="tra_alertbutton_accept">গ্রহণ করুন</string>
+    <string name="bin_str_started">বিন শুরু</string>
+    <string name="bin_str_stopped">বিন স্টপড</string>
+    <string name="bin_alertbody_quickinstructions">অ্যাকশন বারে প্লে বোতাম টিপে রিকভারি বিন সক্রিয় এবং নিষ্ক্রিয় করা হয়। একবার সক্রিয় হয়ে গেলে, যেকোনো মুছে ফেলা ফাইল সাময়িকভাবে পুনরুদ্ধার বা সম্পূর্ণ মুছে ফেলার জন্য বিনের মধ্যে সংরক্ষণ করা হবে। একটি ফাইল পুনরুদ্ধার করতে, + টিপুন, একটি ফাইল স্থায়ীভাবে মুছে ফেলতে, x টিপুন, ফাইলের পূর্বরূপ দেখতে, i টিপুন। নির্দেশ ভিডিও দেখতে, ভিডিও দেখুন ক্লিক করুন.</string>
+    <string name="bin_alerttitle_quickinstructions">নির্দেশনা</string>
+    <string name="tra_alertbutton_okay">ঠিক আছে</string>
+    <string name="tra_alertbutton_instructionvideo">নির্দেশনা ভিডিও</string>
+    <string name="tra_alertbutton_back">পেছনে</string>
+    <string name="bin_str_restored">ফাইল পুনরুদ্ধার করা হয়েছে</string>
+    <string name="bin_str_deleted">ফাইল মুছে ফেলা হয়েছে</string>
+    <string name="bin_str_delete">মুছে ফেলা</string>
+    <string name="bin_str_restore">পুনরুদ্ধার করুন</string>
+    <string name="bin_str_info">তথ্য</string>
+    <string name="bin_alerttitle_delete">নিশ্চিত বাতিল</string>
+    <string name="bin_alertbody_delete">স্থায়ীভাবে এই ফাইল মুছে ফেলার জন্য নিশ্চিত করুন?</string>
+    <string name="bin_str_datedeleted">মুছে ফেলার তারিখ:</string>
+
+    <string name="protection_folders_category_header">বিন মনিটর করা ফোল্ডার ফোল্ডার</string>
+    <string name="input_protection_folders_header_1">ইনপুট সুরক্ষা ফোল্ডার № 1</string>
+    <string name="input_protection_folders_header_2">ইনপুট সুরক্ষা ফোল্ডার № 2</string>
+    <string name="summary_input_folders">সুরক্ষা ফোল্ডার</string>
+    <string name="select_protection_folders_default_value">বাহ্যিক এবং অপসারণযোগ্য স্টোরেজ</string>
+
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bin_str_deleteall">Excluir tudo</string>
+    <string name="bin_str_recoverall">Recuperar tudo</string>
+    <string name="bin_str_service_description">A Lixeira usa este serviço</string>
+
+<string name="bin_app_name">Recuperação</string>
+<string name="bin_str_emptyfolder">Caixa de Recuperação está vazia</string>
+<string name="tra_alerttitle_terms">Termos de Uso e Disclaimer Legal</string>
+<string name="tra_alertbody_disclaimer">É recomendável fazer o backup da mídia do dispositivo antes de usar qualquer aplicativo relacionado a arquivos. A AAinc reserva todos os direitos relacionados a este app. Não assumimos qualquer responsabilidade por quaisquer danos diretos, indiretos, incidentais, especiais, exemplares ou conseqüentes (incluindo, mas não limitados a: aquisição de bens ou serviços, perda e danos de dados, dispositivos ou lucros ou interrupção de negócios ), Qualquer que seja a sua causa e qualquer teoria de responsabilidade, seja em contrato, responsabilidade estrita, delito (incluindo negligência ou de outra forma), ou qualquer outra teoria que surja de qualquer forma fora do uso deste sistema, mesmo se avisado da possibilidade de tal dano . Esta renúncia de responsabilidade aplica-se a qualquer dano ou prejuízo, seja por alegada violação de contrato, comportamento ilícito, negligência ou qualquer outra causa de ação, incluindo mas não limitado a danos ou ferimentos causados ​​por qualquer falha de desempenho, erro, omissão, interrupção , Supressão, defeito, atraso na operação ou transmissão, vírus informático, falha na linha de comunicação e / ou roubo, destruição ou acesso não autorizado a, alteração ou utilização de qualquer registo.</string>
+<string name="tra_alertbutton_accept">Aceitar</string>
+<string name="bin_str_started">Bin Started</string>
+<string name="bin_str_stopped">Bin Stopped</string>
+<string name="bin_alertbody_quickinstructions">O Disco de Recuperação é ativado e desativado pressionando o botão de reprodução na barra de ação. Uma vez ativado, qualquer arquivo excluído será armazenado temporariamente na bandeja para restauração ou exclusão total. Para restaurar um arquivo, pressione +, para excluir permanentemente um arquivo, pressione x, para ver uma visualização do arquivo, pressione i. Para assistir ao vídeo de instruções, clique em assistir ao vídeo.</string>
+<string name="bin_alerttitle_quickinstructions">Instruções</string>
+<string name="tra_alertbutton_okay">OK</string>
+<string name="tra_alertbutton_instructionvideo">Vídeo de Instrução</string>
+<string name="tra_alertbutton_back">Costas</string>
+<string name="bin_str_restored">Arquivo foi restaurado</string>
+<string name="bin_str_deleted">arquivo foi deletado</string>
+<string name="bin_str_delete">Excluir</string>
+<string name="bin_str_restore">Restaurar</string>
+<string name="bin_str_info">Informação</string>
+<string name="bin_alerttitle_delete">Confirmar Eliminar</string>
+<string name="bin_alertbody_delete">Confirme para excluir permanentemente este arquivo?</string>
+<string name="bin_str_datedeleted">Data de eliminação:</string>
+
+<string name="protection_folders_category_header">Pastas Pastas Monitoradas</string>
+<string name="input_protection_folders_header_1">Proteção de entrada pasta № 1</string>
+<string name="input_protection_folders_header_2">Proteção de entrada pasta № 2</string>
+<string name="summary_input_folders">Pasta de proteção</string>
+<string name="select_protection_folders_default_value">Armazenamento externo e removível</string>
+
+
+</resources>

@@ -1,0 +1,79 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 36
+
+    defaultConfig {
+        applicationId "com.aainc.recyclebin"
+        minSdkVersion 23
+        targetSdkVersion 36
+        versionCode 43
+        versionName "4.3"
+        multiDexEnabled true
+
+        externalNativeBuild {
+            cmake {
+                cppFlags ""
+            }
+        }
+
+        // Only include ABIs you need to reduce APK size and memory usage
+        ndk {
+            abiFilters "armeabi-v7a", "arm64-v8a"
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+        debug {
+            // Enable debug build to run faster, no obfuscation
+            minifyEnabled false
+        }
+    }
+
+    externalNativeBuild {
+        cmake {
+            path 'src/main/cpp/CMakeLists.txt'
+        }
+    }
+
+    namespace 'com.aainc.recyclebin'
+
+    // Optional: speed up Gradle build and enable incremental builds
+    buildFeatures {
+        viewBinding true
+        dataBinding false
+    }
+}
+
+dependencies {
+    // Work manager
+    implementation "androidx.work:work-runtime:2.7.1"
+
+    // Ads
+    implementation 'com.google.android.gms:play-services-ads:24.9.0'
+
+    // AppCompat and Material
+    implementation 'androidx.appcompat:appcompat:1.6.1'
+    implementation 'com.google.android.material:material:1.11.0'
+
+    // Preference libraries
+    implementation 'androidx.legacy:legacy-preference-v14:1.0.0'
+    implementation 'androidx.preference:preference:1.2.1'
+
+    // Percent layout (legacy)
+    implementation 'androidx.percentlayout:percentlayout:1.0.0'
+
+    // Guava
+    implementation group: 'com.google.guava', name: 'guava', version: '19.0'
+    configurations.all {
+        exclude group: "com.google.guava", module: "listenablefuture"
+    }
+}
+
+// Recommended: Gradle daemon JVM memory settings
+// Add this to gradle.properties (not here):
+// org.gradle.jvmargs=-Xmx4g -Dfile.encoding=UTF-8

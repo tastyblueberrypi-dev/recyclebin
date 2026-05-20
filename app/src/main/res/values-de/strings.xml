@@ -1,0 +1,35 @@
+<resources>
+
+    <string name="bin_str_deleteall">Alles löschen</string>
+    <string name="bin_str_recoverall">Alles wiederherstellen</string>
+    <string name="bin_str_service_description">Papierkorb verwendet diesen Dienst</string>
+
+
+    <string name="bin_app_name">Wiederherstellungsbehälter</string>
+    <string name="bin_str_emptyfolder">Papierkorb ist derzeit [LEER], es wurde noch nichts gelöscht. Gelöschte Dateien werden hier angezeigt, nachdem Sie sie gelöscht haben. Durch erneutes Öffnen der App können die meisten Probleme behoben werden, z. B. Dateien, die nach dem Löschen nicht angezeigt werden.</string>
+    <string name="tra_alerttitle_terms">Nutzungsbedingungen und Haftungsausschluss</string>
+    <string name="tra_alertbody_disclaimer">Es empfiehlt sich, die Gerätemedien zu sichern, bevor Sie eine dateibezogene App verwenden. AAinc behält sich alle Rechte an dieser App vor. Wir übernehmen keine Haftung und keine Verantwortung für direkte, indirekte, zufällige, spezielle, exemplarische oder Folgeschäden (einschließlich, aber nicht beschränkt auf: Beschaffung von Waren oder Dienstleistungen; Verlust und Beschädigung von Daten, Geräten oder Gewinnen; oder Betriebsunterbrechung ) wie auch immer verursacht und auf jeder Haftungstheorie, sei es aus Vertrag, Gefährdungshaftung, unerlaubter Handlung (einschließlich Fahrlässigkeit oder anderweitig) oder jeder anderen Theorie, die sich in irgendeiner Weise aus der Nutzung dieses Systems ergibt, selbst wenn auf die Möglichkeit solcher Schäden hingewiesen wurde . Dieser Haftungsausschluss gilt für alle Schäden oder Verletzungen, unabhängig davon, ob sie auf angeblicher Vertragsverletzung, unerlaubtem Verhalten, Fahrlässigkeit oder einem anderen Klagegrund beruhen, einschließlich, aber nicht beschränkt auf Schäden oder Verletzungen, die durch Leistungsausfälle, Fehler, Unterlassungen oder Unterbrechungen verursacht wurden , Löschung, Defekt, Verzögerung beim Betrieb oder der Übertragung, Computervirus, Ausfall der Kommunikationsleitung und/oder Diebstahl, Zerstörung oder unbefugter Zugriff auf, Änderung oder Verwendung von Aufzeichnungen.</string>
+    <string name="tra_alertbutton_accept">Annehmen</string>
+    <string name="bin_str_started">Bin gestartet</string>
+    <string name="bin_str_stopped">Bin gestoppt</string>
+    <string name="bin_alertbody_quickinstructions">Der Recovery Bin wird durch Drücken der Play-Schaltfläche in der Aktionsleiste aktiviert und deaktiviert. Nach der Aktivierung werden alle gelöschten Dateien vorübergehend im Papierkorb gespeichert, um sie wiederherzustellen oder vollständig zu löschen. Um eine Datei wiederherzustellen, drücken Sie +, um eine Datei dauerhaft zu löschen, drücken Sie x, um eine Vorschau der Datei anzuzeigen, drücken Sie i. Um das Anleitungsvideo anzusehen, klicken Sie auf Video ansehen.</string>
+    <string name="bin_alerttitle_quickinstructions">Anweisungen</string>
+    <string name="tra_alertbutton_okay">Okay</string>
+    <string name="tra_alertbutton_instructionvideo">Anleitungsvideo</string>
+    <string name="tra_alertbutton_back">Der Rücken</string>
+    <string name="bin_str_restored">Datei wurde wiederhergestellt</string>
+    <string name="bin_str_deleted">Datei wurde gelöscht</string>
+    <string name="bin_str_delete">Löschen</string>
+    <string name="bin_str_restore">Wiederherstellen</string>
+    <string name="bin_str_info">Die Info</string>
+    <string name="bin_alerttitle_delete">Löschen bestätigen</string>
+    <string name="bin_alertbody_delete">Bitte bestätigen, um diese Datei endgültig zu löschen?</string>
+    <string name="bin_str_datedeleted">Datum gelöscht:</string>
+
+    <string name="protection_folders_category_header">Bin Überwachte Ordner-Ordner</string>
+    <string name="input_protection_folders_header_1">Eingabeschutzordner Nr. 1</string>
+    <string name="input_protection_folders_header_2">Eingabeschutzordner Nr. 2</string>
+    <string name="summary_input_folders">Schutzordner</string>
+    <string name="select_protection_folders_default_value">Externer und Wechselspeicher</string>
+
+</resources>

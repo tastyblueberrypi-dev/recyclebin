@@ -1,0 +1,40 @@
+English	Default	values/strings.xml
+
+Portuguese	pt	values-pt/strings.xml - done
+German		de	values-de/strings.xml - done
+Chinese		zh	values-zh/strings.xml - done
+French		fr	values-fr/strings.xml - done
+Italian		it	values-it/strings.xml - done
+Japanese	ja	values-ja/strings.xml - done
+Korean		ko	values-ko/strings.xml - done
+Russian		ru	values-ru/strings.xml - done
+Spanish		es	values-es/strings.xml - done
+Arabic		ar	values-ar/strings.xml - done1
+Hindi		hi	values-hi/strings.xml - done
+Turkish		tr	values-tr/strings.xml - done
+Indonesian	in	values-in/strings.xml - done
+Thai		th	values-th/strings.xml
+Polish		pl	values-pl/strings.xml
+
+Czech	cs	values-cs/strings.xml
+Bulgarian	bg	values-bg/strings.xml
+Catalan	ca	values-ca/strings.xml
+Croatian	hr	values-hr/strings.xml
+Danish	da	values-da/strings.xml
+Finnish	fi	values-fi/strings.xml
+Greek	el	values-el/strings.xml
+Hebrew	iw	values-iw/strings.xml
+Hungarian	hu	values-hu/strings.xml
+Indonesian	in	values-in/strings.xml
+Latvian	lv	values-lv/strings.xml
+Lithuanian	lt	values-lt/strings.xml
+Norwegian	nb	values-nb/strings.xml
+Romanian	ro	values-ro/strings.xml
+Serbian	sr	values-sr/strings.xml
+Slovak	sk	values-sk/strings.xml
+Slovenian	sl	values-sl/strings.xml
+Swedish	sv	values-sv/strings.xml
+Tagalog	tl	values-tl/strings.xml
+Ukrainian	uk	values-uk/strings.xml
+
+https://translate.google.com/#auto/pt/photo%20recovery%0A%0AWelcome%20to%20the%20Photo%20Recovery%20App!%0A%0AClick%20either%20big%20blue%20buttons%20to%20run%20the%20Photo%20Recovery%20program%2C%20each%20method%20runs%20a%20different%20algorithm.%20Smaller%20blue%20buttons%20are%20used%20to%20to%20view%20recovered%20photos%20or%20zip%20and%20email%20them%20to%20your%20computer.%20Some%20users%20report%20success%20by%20restarting%20device%20or%20waiting%20a%20few%20days.%20Click%20%5BGo%20To%20Downloads%5D%20to%20see%20other%20recovery%20apps%20such%20as%20Video%20Recovery%20and%20SD%20Card%20Recovery%0A%20%20%20%20%0AYour%20recovered%20Photos%20(if%20successful)%20will%20be%20in%20a%20folder%20called%20ALL_RECOVERED.%20Please%20click%20%5BPhoto%20Recovery%20File%20Browser%5D%20to%20view%20your%20recovered%20photos%20and%20%5BPhoto%20Recovery%20Zip%20Emailer%5D%20to%20zip%20and%20email%20recovered%20photos%20to%20your%20computer.%20Sometimes%20restarting%20the%20device%20will%20help%20show%20the%20ALL_RECOVERED%20folder%0A%0AView%20Recovered%20Photos%0A%0AEmail%20Recovered%20Photos%0A%0AThe%20Photo%20Recovery%20File%20Browser%20is%20a%20lightweight%20app%20designed%20to%20locate%20your%20recovered%20photos%2C%20click%20%5BGo%20To%20Download%5D%20to%20get%20this%20app%20and%20view%20your%20recovered%20photos.%0A%0AThe%20Photo%20Recovery%20Zip%20Emailer%20zips%20and%20emails%20recovered%20photos%20to%20your%20computer%2C%20click%20%5BGo%20To%20Download%5D%20to%20get%20this%20app%20and%20send%20recovered%20photos%20to%20your%20computer.%0A%0APlease%20click%20Finish%20to%20complete%20Photo%20Recovery%20and%20see%20a%20recommendation%20product%20from%20my%20sponsors!%0A%0APhoto%20Recovery%20File%20Browser%0A%0APhoto%20Recovery%20Zip%20Emailer%0A%0ADisclaimer%3A%20Due%20to%20the%20many%20operation%20systems%2C%20device%20types%2C%20and%20time%20of%20media%20deletion%2C%20this%20app%20cannot%20guarantee%20the%20recovery%20of%20your%20media.%20As%20with%20any%20software%2C%20please%20back%20up%20your%20media%20before%20running.%20The%20developer%20and%20Tasty%20Blueberry%20PI%20LLC%20is%20not%20liable%20for%20any%20result%20accidental%20or%20intentional%20due%20to%20using%20this%20app%0A%0APress%20Start%20to%20begin%20recovering%20media%20using%20the%20first%20algorithm.%20Algorithm%201%20should%20be%20fast%2C%20but%20less%20effective%0A%0AThe%20second%20algorithm%20is%20more%20memory%20intensive%20and%20may%20crash.%20However%2C%20Algorithm%202%20has%20higher%20chance%20of%20recovery%0A%0AThere%20was%20a%20NULL%20Pointer!%20Contact%20developer%20for%20assistance%20at%20contacttastyblueberrypi%40gmail.com.%0A%0ATerms%20of%20Use%0A%0AAccept%0A%0AQuick%20Instructions%0A%0AAlgorithm%201%0A%0AAlgorithm%202%0A%0AFinish%0A%0AFinal%20Instruction%0A%0AOk%0A%0AGo%20To%20Downloads%0A%0AExit%0A%0AStart%0A%0AError%0A%0AFinding%20media%20using%20first%20algorithm%0A%0AFinding%20media%20using%20second%20algorithm%0A%0AMethod%201%0A%0AMethod%202%0A%0AALL_RECOVERED1%0A%0AALL_RECOVERED2

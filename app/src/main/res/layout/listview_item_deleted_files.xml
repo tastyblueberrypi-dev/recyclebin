@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.aainc.recyclebin.ui.SelectedRelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/list_view_selector"
+    android:clickable="false"
+    android:padding="8dp">
+
+    <!-- TOP ROW -->
+    <RelativeLayout
+        android:id="@+id/listview_row_without_expand_container"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/list_view_row_height">
+
+        <ImageView
+            android:id="@+id/imageview_icon"
+            android:layout_width="@dimen/icon_width_small"
+            android:layout_height="@dimen/icon_height_small"
+            android:layout_marginEnd="8dp"
+            android:scaleType="centerInside"
+            android:background="@drawable/file_icon_grey" />
+
+        <TextView
+            android:id="@+id/textview_file_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toStartOf="@id/button_expand_layout_info"
+            android:ellipsize="marquee"
+            android:lines="1"
+            android:paddingStart="@dimen/left_border_margin"
+            android:scrollHorizontally="true"
+            android:textSize="@dimen/list_view_primary_text_size"
+            android:textStyle="bold" />
+
+        <RelativeLayout
+            android:id="@+id/button_expand_layout_info"
+            android:layout_width="@dimen/icon_width_small"
+            android:layout_height="@dimen/icon_height_small"
+            android:layout_alignParentEnd="true"
+            android:layout_centerVertical="true"
+            android:paddingEnd="@dimen/left_right_list_view_row_padding">
+
+            <View
+                android:layout_width="@dimen/expand_triangle_icon_size"
+                android:layout_height="@dimen/expand_triangle_icon_size"
+                android:layout_centerInParent="true"
+                android:background="@drawable/triangle" />
+
+        </RelativeLayout>
+    </RelativeLayout>
+
+    <!-- EXPANDABLE CARD -->
+    <com.google.android.material.card.MaterialCardView
+        android:id="@+id/expandablelinearlayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/listview_row_without_expand_container"
+        android:visibility="gone"
+        app:cardElevation="4dp"
+        app:cardUseCompatPadding="true"
+        android:layout_marginTop="4dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="12dp">
+
+            <!-- BUTTON ROW FIRST -->
+            <LinearLayout
+                android:id="@+id/button_row_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="start"
+                android:paddingBottom="8dp">
+
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/button_action_info"
+                    android:layout_width="@dimen/icon_width_small"
+                    android:layout_height="@dimen/icon_height_small"
+                    android:minWidth="0dp"
+                    android:minHeight="0dp"
+                    android:padding="0dp"
+                    android:gravity="center"
+                    android:background="@drawable/button_info"
+                    android:text="Info"
+                    android:textSize="10sp"
+                    android:textColor="@color/black"
+                    android:layout_marginEnd="8dp" />
+
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/button_action_restore"
+                    android:layout_width="@dimen/icon_width_small"
+                    android:layout_height="@dimen/icon_height_small"
+                    android:minWidth="0dp"
+                    android:minHeight="0dp"
+                    android:padding="0dp"
+                    android:gravity="center"
+                    android:background="@drawable/button_restore"
+                    android:text="Restore"
+                    android:textSize="10sp"
+                    android:textColor="@color/black"
+                    android:layout_marginEnd="8dp" />
+
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/button_action_delete"
+                    android:layout_width="@dimen/icon_width_small"
+                    android:layout_height="@dimen/icon_height_small"
+                    android:minWidth="0dp"
+                    android:minHeight="0dp"
+                    android:padding="0dp"
+                    android:gravity="center"
+                    android:background="@drawable/button_delete"
+                    android:text="Delete"
+                    android:textSize="10sp"
+                    android:textColor="@color/black" />
+
+            </LinearLayout>
+
+            <!-- DELETED INFO ON SAME LINE -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="start"
+                android:paddingTop="4dp">
+
+                <TextView
+                    android:id="@+id/textview_deleted_date_label"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Date Deleted: "
+                    android:textSize="@dimen/list_view_secondary_text_size"
+                    android:textColor="@color/black" />
+
+                <TextView
+                    android:id="@+id/textview_deleted_date"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="@dimen/list_view_secondary_text_size"
+                    android:textColor="@color/black"
+                    android:ellipsize="none"
+                    android:scrollHorizontally="false" />
+
+            </LinearLayout>
+
+            <!-- ORIGINAL PATH -->
+            <TextView
+                android:id="@+id/textview_original_path"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ellipsize="marquee"
+                android:lines="1"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:scrollHorizontally="true"
+                android:textSize="@dimen/list_view_secondary_text_size"
+                android:paddingTop="4dp"
+                android:textColor="@color/black" />
+
+        </LinearLayout>
+
+    </com.google.android.material.card.MaterialCardView>
+
+</com.aainc.recyclebin.ui.SelectedRelativeLayout>

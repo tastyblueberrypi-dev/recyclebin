@@ -1,0 +1,35 @@
+<resources>
+
+    <string name="bin_str_deleteall">Supprimer tout</string>
+    <string name="bin_str_recoverall">Récupérer tout</string>
+    <string name="bin_str_service_description">La corbeille utilise ce service</string>
+
+
+    <string name="bin_app_name">Corbeille de récupération</string>
+    <string name="bin_str_emptyfolder">La corbeille est actuellement [EMPTY], rien na encore été supprimé. Les fichiers supprimés safficheront ici une fois que vous les aurez supprimés. Rouvrir lapplication peut résoudre la plupart des problèmes tels que les fichiers qui ne saffichent pas après la suppression.</string>
+    <string name="tra_alerttitle_terms">Conditions dutilisation et avis de non-responsabilité</string>
+    <string name="tra_alertbody_disclaimer">Il est recommandé de sauvegarder le support de lappareil avant dutiliser une application liée aux fichiers. AAinc se réserve tous les droits liés à cette application. Nous nassumons aucune responsabilité pour tout dommage direct, indirect, accessoire, spécial, exemplaire ou consécutif (y compris, mais sans sy limiter : lachat de biens ou de services ; la perte et lendommagement de données, dappareils ou de bénéfices ; ou une interruption dactivité ) quelle quen soit la cause et sur toute théorie de responsabilité, quelle soit contractuelle, de responsabilité stricte, délictuelle (y compris la négligence ou autre), ou toute autre théorie découlant de quelque manière que ce soit de lutilisation de ce système, même si informé de la possibilité de tels dommages . Cette exclusion de responsabilité sapplique à tout dommage ou blessure, quil soit fondé sur une violation présumée du contrat, un comportement délictuel, une négligence ou toute autre cause daction, y compris, mais sans sy limiter, les dommages ou blessures causés par tout défaut dexécution, erreur, omission, interruption , suppression, défaut, retard de fonctionnement ou de transmission, virus informatique, défaillance de la ligne de communication et/ou vol, destruction ou accès non autorisé, modification ou utilisation de tout enregistrement.</string>
+    <string name="tra_alertbutton_accept">Accepter</string>
+    <string name="bin_str_started">Bin démarré</string>
+    <string name="bin_str_stopped">Bac arrêté</string>
+    <string name="bin_alertbody_quickinstructions">La corbeille de récupération est activée et désactivée en appuyant sur le bouton de lecture dans la barre daction. Une fois activé, tout fichier supprimé sera temporairement stocké dans la corbeille pour restauration ou suppression complète. Pour restaurer un fichier, appuyez sur +, pour supprimer définitivement un fichier, appuyez sur x, pour voir un aperçu du fichier, appuyez sur i. Pour regarder la vidéo dinstructions, cliquez sur regarder la vidéo.</string>
+    <string name="bin_alerttitle_quickinstructions">Des instructions</string>
+    <string name="tra_alertbutton_okay">Daccord</string>
+    <string name="tra_alertbutton_instructionvideo">Vidéo dinstructions</string>
+    <string name="tra_alertbutton_back">Retour</string>
+    <string name="bin_str_restored">Le fichier a été restauré</string>
+    <string name="bin_str_deleted">le fichier à été supprimé</string>
+    <string name="bin_str_delete">Effacer</string>
+    <string name="bin_str_restore">Restaurer</string>
+    <string name="bin_str_info">Info</string>
+    <string name="bin_alerttitle_delete">Confirmation de la suppression</string>
+    <string name="bin_alertbody_delete">Veuillez confirmer la suppression définitive de ce fichier ?</string>
+    <string name="bin_str_datedeleted">Date de suppression :</string>
+
+    <string name="protection_folders_category_header">Dossiers Bin Monitored Folders</string>
+    <string name="input_protection_folders_header_1">Dossier de protection dentrée № 1</string>
+    <string name="input_protection_folders_header_2">Dossier de protection dentrée № 2</string>
+    <string name="summary_input_folders">Dossier de protection</string>
+    <string name="select_protection_folders_default_value">Stockage externe et amovible</string>
+
+</resources>

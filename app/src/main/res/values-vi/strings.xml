@@ -1,0 +1,35 @@
+<resources>
+
+    <string name="bin_str_deleteall">Xóa hết</string>
+    <string name="bin_str_recoverall">Khôi phục tất cả</string>
+    <string name="bin_str_service_description">Thùng rác Sử dụng Dịch vụ này</string>
+
+
+    <string name="bin_app_name">Thùng khôi phục</string>
+    <string name="bin_str_emptyfolder">Bin hiện là [EMPTY], Chưa có gì được xóa. Các tệp đã xóa sẽ hiển thị ở đây sau khi bạn xóa chúng. Mở lại ứng dụng có thể khắc phục hầu hết các vấn đề như tệp không hiển thị sau khi xóa.</string>
+    <string name="tra_alerttitle_terms">Điều khoản Sử dụng và Tuyên bố từ chối trách nhiệm pháp lý</string>
+    <string name="tra_alertbody_disclaimer">Cách tốt nhất là sao lưu phương tiện của thiết bị trước khi sử dụng bất kỳ ứng dụng liên quan đến tệp nào. AAinc bảo lưu tất cả các quyền liên quan đến ứng dụng này. Chúng tôi không chịu trách nhiệm và không chịu trách nhiệm đối với bất kỳ thiệt hại trực tiếp, gián tiếp, ngẫu nhiên, đặc biệt, mẫu mực hoặc do hậu quả (bao gồm, nhưng không giới hạn ở: mua sắm hàng hóa hoặc dịch vụ; mất mát và hư hỏng dữ liệu, thiết bị hoặc lợi nhuận; hoặc gián đoạn kinh doanh ) tuy nhiên đã gây ra và dựa trên bất kỳ lý thuyết nào về trách nhiệm pháp lý, cho dù trong hợp đồng, trách nhiệm pháp lý nghiêm ngặt, sai phạm (bao gồm cả sơ suất hoặc cách khác), hoặc bất kỳ lý thuyết nào khác phát sinh theo bất kỳ cách nào ngoài việc sử dụng hệ thống này, ngay cả khi được thông báo về khả năng xảy ra thiệt hại đó . Tuyên bố từ chối trách nhiệm này áp dụng cho bất kỳ thiệt hại hoặc thương tích nào, cho dù dựa trên cáo buộc vi phạm hợp đồng, hành vi thô bạo, sơ suất hoặc bất kỳ nguyên nhân nào khác của hành động, bao gồm nhưng không giới hạn ở những thiệt hại hoặc thương tích gây ra bởi bất kỳ sự thất bại nào về hiệu suất, lỗi, thiếu sót, gián đoạn , xóa, lỗi, chậm trễ trong hoạt động hoặc truyền tải, vi rút máy tính, lỗi đường truyền liên lạc và / hoặc trộm cắp, phá hủy hoặc truy cập trái phép vào, thay đổi hoặc sử dụng bất kỳ bản ghi nào.</string>
+    <string name="tra_alertbutton_accept">Chấp nhận</string>
+    <string name="bin_str_started">Thùng rác đã bắt đầu</string>
+    <string name="bin_str_stopped">Thùng rác đã dừng</string>
+    <string name="bin_alertbody_quickinstructions">Thùng khôi phục được kích hoạt và vô hiệu hóa bằng cách nhấn nút phát trên thanh tác vụ. Sau khi được kích hoạt, bất kỳ tệp nào đã xóa sẽ được lưu trữ tạm thời trong thùng để khôi phục hoặc xóa toàn bộ. Để khôi phục tệp, nhấn +, để xóa vĩnh viễn tệp, nhấn x, để xem bản xem trước của tệp, nhấn i. Để xem video hướng dẫn, hãy nhấp vào xem video.</string>
+    <string name="bin_alerttitle_quickinstructions">Hướng dẫn</string>
+    <string name="tra_alertbutton_okay">Được chứ</string>
+    <string name="tra_alertbutton_instructionvideo">Video hướng dẫn</string>
+    <string name="tra_alertbutton_back">Mặt sau</string>
+    <string name="bin_str_restored">Tệp đã được khôi phục</string>
+    <string name="bin_str_deleted">Tệp đã bị xóa</string>
+    <string name="bin_str_delete">Xóa bỏ</string>
+    <string name="bin_str_restore">Khôi phục</string>
+    <string name="bin_str_info">Thông tin</string>
+    <string name="bin_alerttitle_delete">Xác nhận Xóa</string>
+    <string name="bin_alertbody_delete">Vui lòng xác nhận để xóa vĩnh viễn tệp này?</string>
+    <string name="bin_str_datedeleted">Ngày bị xóa:</string>
+
+    <string name="protection_folders_category_header">Thư mục Thư mục được Giám sát Bin</string>
+    <string name="input_protection_folders_header_1">Thư mục bảo vệ đầu vào № 1</string>
+    <string name="input_protection_folders_header_2">Thư mục bảo vệ đầu vào № 2</string>
+    <string name="summary_input_folders">Thư mục bảo vệ</string>
+    <string name="select_protection_folders_default_value">Bộ nhớ ngoài và bộ nhớ di động</string>
+
+</resources>

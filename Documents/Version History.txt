@@ -1,0 +1,46 @@
+8-8-2016
+
+android 4.3 SGH-T889
+-many photos with small bin size (5 Mbytes)
+-many photos with large bin size (200 Mbytes)
+-few photos with small bin size (5 Mbytes) - done
+-few photos with large bin size (200 Mbytes)
+-DL Photos from internet
+-camera take-delete - somehow worked
+-FB delete
+-my fb delete
+-simultaneous work with another bin
+-banner and interstitial ads - worked
+-goes over-bound, aka over the size limit of sys internal
+-take 20 pictures in quick succession
+
+android 5.1.1 SMJ-100VPP
+-many photos with small bin size (5 Mbytes) - yes
+-many photos with large bin size (200 Mbytes)
+-few photos with small bin size (5 Mbytes) - worked
+-few photos with large bin size (200 Mbytes)
+-DL Photos from internet
+-camera take-delete - worked
+-FB delete - worked
+-my fb delete
+-simultaneous work with another bin
+-banner and interstitial ads - worked
+-goes over-bound, aka over the size limit of sys internal - worked
+-take 20 pictures in quick succession - worked
+
+android 6.0.1 SMJ-120A
+-many photos with small bin size (5 Mbytes)
+-many photos with large bin size (200 Mbytes)
+-few photos with small bin size (5 Mbytes) - worked
+-few photos with large bin size (200 Mbytes)
+-DL Photos from internet
+-camera take-delete - nope, camera take it immediately goes into bin
+-FB delete
+-my fb delete
+-simultaneous work with another bin
+-banner and interstitial ads - worked
+-goes over-bound, aka over the size limit of sys internal
+-take 20 pictures in quick succession
+
+7-15-2018 changed console name from recovery bin to recycle bin, daily installs were around 900-1100 each with recovery bin
+and daily revenue were around $6-12, daily impressions around 3k

@@ -1,0 +1,35 @@
+<resources>
+
+    <string name="bin_str_deleteall">Hapus semua</string>
+    <string name="bin_str_recoverall">Pulihkan Semua</string>
+    <string name="bin_str_service_description">Recycle Bin Menggunakan Layanan Ini</string>
+
+
+    <string name="bin_app_name">Tempat Pemulihan</string>
+    <string name="bin_str_emptyfolder">Bin saat ini [KOSONG], Belum ada yang dihapus. File yang dihapus akan muncul di sini setelah Anda menghapusnya. Buka kembali aplikasi dapat memperbaiki sebagian besar masalah seperti file tidak muncul setelah dihapus.</string>
+    <string name="tra_alerttitle_terms">Ketentuan Penggunaan dan Penafian Hukum</string>
+    <string name="tra_alertbody_disclaimer">Ini adalah praktik terbaik untuk mencadangkan media perangkat sebelum menggunakan aplikasi terkait file apa pun. AAinc memiliki semua hak yang terkait dengan aplikasi ini. Kami tidak bertanggung jawab dan tidak bertanggung jawab atas kerusakan langsung, tidak langsung, insidental, khusus, contoh, atau konsekuensial (termasuk, tetapi tidak terbatas pada: pengadaan barang atau jasa; kehilangan dan kerusakan data, perangkat, atau keuntungan; atau gangguan bisnis ) bagaimanapun penyebabnya dan berdasarkan teori kewajiban apa pun, baik dalam kontrak, kewajiban ketat, kesalahan (termasuk kelalaian atau lainnya), atau teori lain apa pun yang timbul dengan cara apa pun dari penggunaan sistem ini, bahkan jika diberitahukan tentang kemungkinan kerusakan tersebut . Penafian tanggung jawab ini berlaku untuk setiap kerusakan atau cedera, baik berdasarkan dugaan pelanggaran kontrak, perilaku yang merugikan, kelalaian atau penyebab tindakan lainnya, termasuk namun tidak terbatas pada kerusakan atau cedera yang disebabkan oleh kegagalan kinerja, kesalahan, kelalaian, gangguan , penghapusan, cacat, penundaan operasi atau transmisi, virus komputer, kegagalan jalur komunikasi, dan/atau pencurian, penghancuran atau akses tidak sah ke, perubahan, atau penggunaan catatan apa pun.</string>
+    <string name="tra_alertbutton_accept">Menerima</string>
+    <string name="bin_str_started">Bin Dimulai</string>
+    <string name="bin_str_stopped">Bin Berhenti</string>
+    <string name="bin_alertbody_quickinstructions">Bin Pemulihan diaktifkan dan dinonaktifkan dengan menekan tombol putar di bilah tindakan. Setelah diaktifkan, setiap file yang dihapus akan disimpan sementara di tempat sampah untuk pemulihan atau penghapusan penuh. Untuk memulihkan file, tekan +, untuk menghapus file secara permanen, tekan x, untuk melihat pratinjau file, tekan i. Untuk menonton video instruksi, klik tonton video.</string>
+    <string name="bin_alerttitle_quickinstructions">instruksi</string>
+    <string name="tra_alertbutton_okay">Oke</string>
+    <string name="tra_alertbutton_instructionvideo">Video instruksi</string>
+    <string name="tra_alertbutton_back">Kembali</string>
+    <string name="bin_str_restored">File dipulihkan</string>
+    <string name="bin_str_deleted">File telah dihapus</string>
+    <string name="bin_str_delete">Menghapus</string>
+    <string name="bin_str_restore">Memulihkan</string>
+    <string name="bin_str_info">Info</string>
+    <string name="bin_alerttitle_delete">Konfirmasi Hapus</string>
+    <string name="bin_alertbody_delete">Harap konfirmasi untuk menghapus file ini secara permanen?</string>
+    <string name="bin_str_datedeleted">Tanggal Dihapus:</string>
+
+    <string name="protection_folders_category_header">Bin folder Folder Terpantau</string>
+    <string name="input_protection_folders_header_1">Masukkan folder perlindungan 1</string>
+    <string name="input_protection_folders_header_2">Masukkan folder perlindungan 2</string>
+    <string name="summary_input_folders">Folder perlindungan</string>
+    <string name="select_protection_folders_default_value">Penyimpanan eksternal dan dapat dilepas</string>
+
+</resources>

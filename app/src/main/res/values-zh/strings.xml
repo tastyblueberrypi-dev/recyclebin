@@ -1,0 +1,35 @@
+<resources>
+
+    <string name="bin_str_deleteall">删除所有</string>
+    <string name="bin_str_recoverall">恢复所有</string>
+    <string name="bin_str_service_description">回收站使用此服务</string>
+
+
+    <string name="bin_app_name">回收箱</string>
+    <string name="bin_str_emptyfolder">Bin 当前为 [EMPTY]，尚未删除任何内容。删除后，已删除的文件将显示在此处。重新打开应用程序可以解决大多数问题，例如删除后文件不显示。</string>
+    <string name="tra_alerttitle_terms">使用条款和法律免责声明</string>
+    <string name="tra_alertbody_disclaimer">在使用任何文件相关的应用程序之前备份设备媒体是最佳做法。 AAinc 保留与此应用程序相关的所有权利。对于任何直接、间接、偶然、特殊、惩戒性或后果性损害（包括但不限于：商品或服务的采购；数据、设备或利润的丢失和损坏；或业务中断），我们不承担任何责任。 ) 无论是在合同、严格责任、侵权（包括疏忽或其他）方面，或以任何方式因使用本系统而产生的任何其他理论，即使已被告知此类损害的可能性.本免责声明适用于任何损害或伤害，无论是基于涉嫌违约、侵权行为、疏忽或任何其他诉讼原因，包括但不限于因任何未能履行、错误、遗漏、中断而造成的损害或伤害、删除、缺陷、操作或传输延迟、计算机病毒、通信线路故障和/或盗窃、破坏或未经授权访问、更改或使用任何记录。</string>
+    <string name="tra_alertbutton_accept">接受</string>
+    <string name="bin_str_started">斌开始</string>
+    <string name="bin_str_stopped">垃圾箱停止</string>
+    <string name="bin_alertbody_quickinstructions">通过按下操作栏中的播放按钮来激活和停用恢复箱。激活后，任何已删除的文件都将临时存储在 bin 中以进行恢复或完全删除。要恢复文件，请按 +，要永久删除文件，请按 x，要查看文件的预览，请按 i。要观看说明视频，请单击观看视频。</string>
+    <string name="bin_alerttitle_quickinstructions">指示</string>
+    <string name="tra_alertbutton_okay">好的</string>
+    <string name="tra_alertbutton_instructionvideo">教学视频</string>
+    <string name="tra_alertbutton_back">后退</string>
+    <string name="bin_str_restored">文件已恢复</string>
+    <string name="bin_str_deleted">文件已被删除</string>
+    <string name="bin_str_delete">删除</string>
+    <string name="bin_str_restore">恢复</string>
+    <string name="bin_str_info">信息</string>
+    <string name="bin_alerttitle_delete">确认删除</string>
+    <string name="bin_alertbody_delete">请确认永久删除此文件？</string>
+    <string name="bin_str_datedeleted">删除日期：</string>
+
+    <string name="protection_folders_category_header">Bin 受监视的文件夹文件夹</string>
+    <string name="input_protection_folders_header_1">输入保护文件夹№1</string>
+    <string name="input_protection_folders_header_2">输入保护文件夹№ 2</string>
+    <string name="summary_input_folders">保护文件夹</string>
+    <string name="select_protection_folders_default_value">外部和可移动存储</string>
+
+</resources>

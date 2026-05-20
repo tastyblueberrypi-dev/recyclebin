@@ -1,0 +1,35 @@
+<resources>
+
+    <string name="bin_str_deleteall">Hepsini sil</string>
+    <string name="bin_str_recoverall">Tümünü Kurtar</string>
+    <string name="bin_str_service_description">Geri Dönüşüm Kutusu Bu Hizmeti Kullanıyor</string>
+
+
+    <string name="bin_app_name">Kurtarma Kutusu</string>
+    <string name="bin_str_emptyfolder">Kutu şu anda [BOŞ], Henüz hiçbir şey silinmedi. Silinen dosyalar, siz onları sildikten sonra burada görünür. Uygulamayı yeniden açın, silindikten sonra dosyaların görünmemesi gibi çoğu sorunu çözebilir.</string>
+    <string name="tra_alerttitle_terms">Kullanım Koşulları ve Yasal Uyarı</string>
+    <string name="tra_alertbody_disclaimer">Dosyayla ilgili herhangi bir uygulamayı kullanmadan önce cihaz ortamını yedeklemek en iyi uygulamadır. AAinc, bu uygulamayla ilgili tüm hakları saklı tutar. Doğrudan, dolaylı, arızi, özel, örnek teşkil eden veya sonuç olarak ortaya çıkan zararlardan (mal veya hizmet alımı; veri, cihaz veya kâr kaybı ve hasarı veya iş kesintisi dahil ancak bunlarla sınırlı olmamak üzere) hiçbir sorumluluk ve sorumluluk kabul etmiyoruz. ) sözleşme, kusursuz sorumluluk, haksız fiil (ihmal veya başka türlü dahil olmak üzere) veya herhangi bir şekilde bu sistemin kullanımından kaynaklanan herhangi bir başka teoriden, bu tür bir zarar olasılığı bildirilmiş olsa bile, neden olduğu ve herhangi bir sorumluluk teorisi üzerine . Bu sorumluluk reddi, herhangi bir performans başarısızlığı, hata, ihmal, kesintiden kaynaklanan hasarlar veya yaralanmalar dahil ancak bunlarla sınırlı olmamak üzere, iddia edilen sözleşme ihlali, haksız davranış, ihmal veya diğer herhangi bir dava sebebine dayanan herhangi bir zarar veya yaralanma için geçerlidir. , silme, kusur, işlem veya iletimde gecikme, bilgisayar virüsü, iletişim hattı arızası ve/veya hırsızlık, imha veya herhangi bir kayda yetkisiz erişim, değişiklik veya herhangi bir kaydın kullanılması.</string>
+    <string name="tra_alertbutton_accept">Kabul</string>
+    <string name="bin_str_started">Bin Başlatıldı</string>
+    <string name="bin_str_stopped">Depo Durdu</string>
+    <string name="bin_alertbody_quickinstructions">Kurtarma Kutusu, işlem çubuğundaki oynat düğmesine basılarak etkinleştirilir ve devre dışı bırakılır. Etkinleştirildiğinde, silinen herhangi bir dosya, geri yükleme veya tam silme için geçici olarak çöp kutusunda saklanır. Bir dosyayı geri yüklemek için +ya basın, bir dosyayı kalıcı olarak silmek için xe basın, dosyanın önizlemesini görmek için iye basın. Talimat videosunu izlemek için videoyu izleyi tıklayın.</string>
+    <string name="bin_alerttitle_quickinstructions">Talimatlar</string>
+    <string name="tra_alertbutton_okay">Peki</string>
+    <string name="tra_alertbutton_instructionvideo">Talimat Videosu</string>
+    <string name="tra_alertbutton_back">Geri</string>
+    <string name="bin_str_restored">Dosya geri yüklendi</string>
+    <string name="bin_str_deleted">dosya silindi</string>
+    <string name="bin_str_delete">Silmek</string>
+    <string name="bin_str_restore">Eski haline getirmek</string>
+    <string name="bin_str_info">Bilgi</string>
+    <string name="bin_alerttitle_delete">Silmeyi Onayla</string>
+    <string name="bin_alertbody_delete">Lütfen bu dosyayı kalıcı olarak silmek için onaylayın?</string>
+    <string name="bin_str_datedeleted">Silinme Tarihi:</string>
+
+    <string name="protection_folders_category_header">Bin İzlenen Klasörler klasörleri</string>
+    <string name="input_protection_folders_header_1">Giriş koruma klasörü № 1</string>
+    <string name="input_protection_folders_header_2">Giriş koruma klasörü № 2</string>
+    <string name="summary_input_folders">Koruma klasörü</string>
+    <string name="select_protection_folders_default_value">Harici ve çıkarılabilir depolama</string>
+
+</resources>

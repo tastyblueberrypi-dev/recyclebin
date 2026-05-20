@@ -1,0 +1,35 @@
+<resources>
+
+    <string name="bin_str_deleteall">حذف الكل</string>
+    <string name="bin_str_recoverall">استعادة الكل</string>
+    <string name="bin_str_service_description">تستخدم سلة المحذوفات هذه الخدمة</string>
+
+
+    <string name="bin_app_name">صندوق الاسترداد</string>
+    <string name="bin_str_emptyfolder">الصندوق حاليًا [فارغ] ، لم يتم حذف أي شيء بعد. ستظهر الملفات المحذوفة هنا بعد حذفها. يمكن أن تؤدي إعادة فتح التطبيق إلى إصلاح معظم المشكلات مثل عدم ظهور الملفات بعد الحذف.</string>
+    <string name="tra_alerttitle_terms">شروط الاستخدام وإخلاء المسئولية القانونية</string>
+    <string name="tra_alertbody_disclaimer">من أفضل الممارسات إجراء نسخ احتياطي لوسائط الجهاز قبل استخدام أي تطبيق متعلق بالملف. AAinc تحتفظ بجميع الحقوق المتعلقة بهذا التطبيق. نحن لا نتحمل أي مسؤولية ولا نتحمل أي مسؤولية عن أي أضرار مباشرة أو غير مباشرة أو عرضية أو خاصة أو نموذجية أو تبعية (بما في ذلك ، على سبيل المثال لا الحصر: شراء السلع أو الخدمات ؛ فقدان وتلف البيانات أو الجهاز أو الأرباح ؛ أو انقطاع العمل ) ومع ذلك تسبب في أي نظرية للمسؤولية ، سواء في العقد أو المسؤولية الصارمة أو المسؤولية التقصيرية (بما في ذلك الإهمال أو غير ذلك) ، أو أي نظرية أخرى تنشأ بأي شكل من الأشكال عن استخدام هذا النظام ، حتى لو تم إعلامك بإمكانية حدوث مثل هذا الضرر . ينطبق إخلاء المسؤولية هذا على أي أضرار أو إصابات ، سواء استنادًا إلى الانتهاك المزعوم للعقد أو السلوك الضار أو الإهمال أو أي سبب آخر للإجراءات ، بما في ذلك على سبيل المثال لا الحصر الأضرار أو الإصابات الناجمة عن أي فشل في الأداء أو الخطأ أو الإهمال أو الانقطاع أو حذف أو عيب أو تأخير في التشغيل أو النقل أو فيروسات الكمبيوتر أو فشل خط الاتصال و / أو السرقة أو التدمير أو الوصول غير المصرح به إلى أي سجل أو تغييره أو استخدامه.</string>
+    <string name="tra_alertbutton_accept">قبول</string>
+    <string name="bin_str_started">بدأ الصندوق</string>
+    <string name="bin_str_stopped">توقف الصندوق</string>
+    <string name="bin_alertbody_quickinstructions">يتم تنشيط Recovery Bin وإلغاء تنشيطه بالضغط على زر التشغيل في شريط الإجراءات. بمجرد التنشيط ، سيتم تخزين أي ملف محذوف مؤقتًا في الحاوية لاستعادته أو حذفه بالكامل. لاستعادة ملف ، اضغط على + ، لحذف ملف نهائيًا ، اضغط على x ، لمشاهدة معاينة الملف ، اضغط على i. لمشاهدة فيديو التعليمات ، انقر فوق مشاهدة الفيديو.</string>
+    <string name="bin_alerttitle_quickinstructions">تعليمات</string>
+    <string name="tra_alertbutton_okay">تمام</string>
+    <string name="tra_alertbutton_instructionvideo">فيديو تعليمي</string>
+    <string name="tra_alertbutton_back">خلف</string>
+    <string name="bin_str_restored">تمت استعادة الملف</string>
+    <string name="bin_str_deleted">تم حذف الملف</string>
+    <string name="bin_str_delete">حذف</string>
+    <string name="bin_str_restore">يعيد</string>
+    <string name="bin_str_info">معلومات</string>
+    <string name="bin_alerttitle_delete">تأكيد الحذف</string>
+    <string name="bin_alertbody_delete">الرجاء التأكيد لحذف هذا الملف بشكل دائم؟</string>
+    <string name="bin_str_datedeleted">تاريخ الحذف:</string>
+
+    <string name="protection_folders_category_header">مجلدات المجلدات المراقبة بن</string>
+    <string name="input_protection_folders_header_1">مجلد حماية الإدخال 1</string>
+    <string name="input_protection_folders_header_2">مجلد حماية المدخلات № 2</string>
+    <string name="summary_input_folders">مجلد الحماية</string>
+    <string name="select_protection_folders_default_value">تخزين خارجي وقابل للإزالة</string>
+
+</resources>

@@ -1,0 +1,35 @@
+<resources>
+
+    <string name="bin_str_deleteall">सभी हटा दो</string>
+    <string name="bin_str_recoverall">सभी को पुनर्प्राप्त करें</string>
+    <string name="bin_str_service_description">रीसायकल बिन इस सेवा का उपयोग करता है</string>
+
+
+    <string name="bin_app_name">रिकवरी बिन</string>
+    <string name="bin_str_emptyfolder">बिन वर्तमान में [खाली] है, अभी तक कुछ भी नहीं हटाया गया है। आपके द्वारा हटाई गई फ़ाइलें हटाने के बाद यहां दिखाई देंगी। एप्लिकेशन को फिर से खोलने से अधिकांश समस्याएं ठीक हो सकती हैं जैसे कि फ़ाइलें हटाने के बाद दिखाई नहीं दे रही हैं।</string>
+    <string name="tra_alerttitle_terms">उपयोग की शर्तें और कानूनी अस्वीकरण</string>
+    <string name="tra_alertbody_disclaimer">किसी फ़ाइल से संबंधित ऐप का उपयोग करने से पहले डिवाइस मीडिया का बैकअप लेना सबसे अच्छा अभ्यास है। AAinc इस ऐप से संबंधित सभी अधिकार सुरक्षित रखता है। हम किसी भी प्रत्यक्ष, अप्रत्यक्ष, आकस्मिक, विशेष, अनुकरणीय, या परिणामी क्षति के लिए कोई दायित्व और कोई जिम्मेदारी नहीं लेते हैं (जिसमें शामिल हैं, लेकिन इन तक सीमित नहीं हैं: माल या सेवाओं की खरीद; डेटा, डिवाइस, या लाभ की हानि और क्षति; या व्यावसायिक रुकावट ) हालांकि कारण और दायित्व के किसी भी सिद्धांत पर, चाहे अनुबंध में, सख्त दायित्व, यातना (लापरवाही या अन्यथा सहित), या इस प्रणाली के उपयोग से किसी भी तरह से उत्पन्न होने वाला कोई अन्य सिद्धांत, भले ही इस तरह के नुकसान की संभावना की सलाह दी गई हो . दायित्व का यह अस्वीकरण किसी भी क्षति या चोट पर लागू होता है, चाहे वह अनुबंध के कथित उल्लंघन, अत्याचारपूर्ण व्यवहार, लापरवाही या कार्रवाई के किसी अन्य कारण पर आधारित हो, जिसमें प्रदर्शन, त्रुटि, चूक, रुकावट के कारण होने वाली क्षति या चोटों तक सीमित नहीं है। , विलोपन, दोष, संचालन या प्रसारण में देरी, कंप्यूटर वायरस, संचार लाइन की विफलता, और/या चोरी, विनाश या अनधिकृत पहुंच, किसी भी रिकॉर्ड में परिवर्तन, या उपयोग।</string>
+    <string name="tra_alertbutton_accept">स्वीकार करना</string>
+    <string name="bin_str_started">बिन शुरू</string>
+    <string name="bin_str_stopped">बिन रुक गया</string>
+    <string name="bin_alertbody_quickinstructions">रिकवरी बिन को एक्शन बार में प्ले बटन दबाकर सक्रिय और निष्क्रिय किया जाता है। एक बार सक्रिय होने पर, किसी भी हटाई गई फ़ाइल को पुनर्स्थापना या पूर्ण हटाने के लिए अस्थायी रूप से बिन में संग्रहीत किया जाएगा। फ़ाइल को पुनर्स्थापित करने के लिए, फ़ाइल को स्थायी रूप से हटाने के लिए + दबाएं, फ़ाइल का पूर्वावलोकन देखने के लिए x दबाएं, i दबाएं। निर्देश वीडियो देखने के लिए, वीडियो देखें पर क्लिक करें।</string>
+    <string name="bin_alerttitle_quickinstructions">निर्देश</string>
+    <string name="tra_alertbutton_okay">ठीक</string>
+    <string name="tra_alertbutton_instructionvideo">निर्देश वीडियो</string>
+    <string name="tra_alertbutton_back">पीछे</string>
+    <string name="bin_str_restored">फ़ाइल को पुनर्स्थापित किया गया</string>
+    <string name="bin_str_deleted">फाइल नष्ट हो गयी थी</string>
+    <string name="bin_str_delete">मिटाना</string>
+    <string name="bin_str_restore">पुनर्स्थापित करना</string>
+    <string name="bin_str_info">जानकारी</string>
+    <string name="bin_alerttitle_delete">हटाने की पुष्टि करें</string>
+    <string name="bin_alertbody_delete">कृपया इस फ़ाइल को स्थायी रूप से हटाने की पुष्टि करें?</string>
+    <string name="bin_str_datedeleted">दिनांक हटाया गया:</string>
+
+    <string name="protection_folders_category_header">बिन मॉनिटर किए गए फोल्डर फोल्डर</string>
+    <string name="input_protection_folders_header_1">इनपुट सुरक्षा फ़ोल्डर 1</string>
+    <string name="input_protection_folders_header_2">इनपुट सुरक्षा फ़ोल्डर 2</string>
+    <string name="summary_input_folders">सुरक्षा फ़ोल्डर</string>
+    <string name="select_protection_folders_default_value">बाहरी और हटाने योग्य भंडारण</string>
+
+</resources>

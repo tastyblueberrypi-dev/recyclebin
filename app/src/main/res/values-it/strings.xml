@@ -1,0 +1,35 @@
+<resources>
+
+    <string name="bin_str_deleteall">Cancella tutto</string>
+    <string name="bin_str_recoverall">Recupera tutto</string>
+    <string name="bin_str_service_description">Cestino utilizza questo servizio</string>
+
+
+    <string name="bin_app_name">Cestino di recupero</string>
+    <string name="bin_str_emptyfolder">Il cestino è attualmente [VUOTO], nulla è stato ancora eliminato. I file eliminati verranno visualizzati qui dopo averli eliminati. La riapertura dellapp può risolvere la maggior parte dei problemi come la mancata visualizzazione dei file dopo leliminazione.</string>
+    <string name="tra_alerttitle_terms">Condizioni duso e disclaimer legale</string>
+    <string name="tra_alertbody_disclaimer">È consigliabile eseguire il backup del supporto del dispositivo prima di utilizzare qualsiasi app relativa ai file. AAinc si riserva tutti i diritti relativi a questa app. Non ci assumiamo alcuna responsabilità per eventuali danni diretti, indiretti, incidentali, speciali, esemplari o consequenziali (inclusi, ma non limitati a: approvvigionamento di beni o servizi; perdita e danneggiamento di dati, dispositivi o profitti; o interruzione dellattività ) comunque causati e su qualsiasi teoria di responsabilità, sia contrattuale, oggettiva, extracontrattuale (inclusa negligenza o altro), o qualsiasi altra teoria derivante in qualsiasi modo dalluso di questo sistema, anche se avvisata della possibilità di tale danno . Questa esclusione di responsabilità si applica a qualsiasi danno o lesione, sia basata su presunta violazione del contratto, comportamento illecito, negligenza o qualsiasi altra causa di azione, inclusi ma non limitati a danni o lesioni causati da qualsiasi mancata prestazione, errore, omissione, interruzione , cancellazione, difetto, ritardo nel funzionamento o nella trasmissione, virus informatico, guasto della linea di comunicazione e/o furto, distruzione o accesso non autorizzato, alterazione o utilizzo di qualsiasi record.</string>
+    <string name="tra_alertbutton_accept">Accettare</string>
+    <string name="bin_str_started">Bin avviato</string>
+    <string name="bin_str_stopped">Cestino fermato</string>
+    <string name="bin_alertbody_quickinstructions">Il Recovery Bin viene attivato e disattivato premendo il pulsante di riproduzione nella barra delle azioni. Una volta attivato, qualsiasi file eliminato verrà temporaneamente archiviato nel cestino per il ripristino o leliminazione completa. Per ripristinare un file, premere +, per eliminare definitivamente un file, premere x, per visualizzare unanteprima del file, premere i. Per guardare il video di istruzioni, fare clic su guarda il video.</string>
+    <string name="bin_alerttitle_quickinstructions">Istruzioni</string>
+    <string name="tra_alertbutton_okay">Bene</string>
+    <string name="tra_alertbutton_instructionvideo">Video di istruzioni</string>
+    <string name="tra_alertbutton_back">Di ritorno</string>
+    <string name="bin_str_restored">Il file è stato ripristinato</string>
+    <string name="bin_str_deleted">il file è stato cancellato</string>
+    <string name="bin_str_delete">Elimina</string>
+    <string name="bin_str_restore">Ristabilire</string>
+    <string name="bin_str_info">Informazioni</string>
+    <string name="bin_alerttitle_delete">Conferma cancellazione</string>
+    <string name="bin_alertbody_delete">Si prega di confermare per eliminare definitivamente questo file?</string>
+    <string name="bin_str_datedeleted">Data di eliminazione:</string>
+
+    <string name="protection_folders_category_header">Raccogli le cartelle delle cartelle monitorate</string>
+    <string name="input_protection_folders_header_1">Cartella di protezione ingresso № 1</string>
+    <string name="input_protection_folders_header_2">Cartella di protezione ingresso № 2</string>
+    <string name="summary_input_folders">Cartella di protezione</string>
+    <string name="select_protection_folders_default_value">Storage esterno e rimovibile</string>
+
+</resources>

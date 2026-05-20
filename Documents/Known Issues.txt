@@ -1,0 +1,7 @@
+New Bin for android 6.0 - 
+-Contentprovider, - cannot detect camera/gallery delete for some reason.So I just implement something where all photos added to photo folder directly.through contentobserver on a revolving basis to maintain latest. Tried hashmap 
+-Fileobserver for only DCIM, and activate on all events - did not work
+-Even with add everytime, one more bug where sometimes camera locks up and only shows 1 thing…
+-when there are extra sd card, does not recover
+-system internal que is not sanitized, aka pictures will repeat in name and que will outgrow actual list because duplicates
+are added to que with same name, while saving will simply overwrite

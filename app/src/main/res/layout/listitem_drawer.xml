@@ -1,0 +1,23 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="?android:attr/activatedBackgroundIndicator">
+ 
+    <ImageView
+        android:id="@+id/listitem_drawer_icon"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:paddingRight="10dp" />
+ 
+    <TextView
+        android:id="@+id/listitem_drawer_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/listitem_drawer_icon"
+        android:textColor="#ffffff" 
+        android:textSize="15sp"/>
+ 
+</RelativeLayout>

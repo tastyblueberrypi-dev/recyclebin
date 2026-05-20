@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bin_str_deleteall">Eliminar todos</string>
+    <string name="bin_str_recoverall">recuperar todo</string>
+    <string name="bin_str_service_description">Papelera de reciclaje utiliza este servicio</string>
+
+<string name="bin_app_name">Bandeja de recuperación</string>
+<string name="bin_str_emptyfolder">El contenedor de recuperación está vacío</string>
+<string name="tra_alerttitle_terms">Términos de Uso y Cláusula Legal</string>
+<string name="tra_alertbody_disclaimer">Es recomendable realizar una copia de seguridad del dispositivo multimedia antes de utilizar cualquier aplicación relacionada con archivos. AAinc se reserva todos los derechos relacionados con esta aplicación. No asumimos ninguna responsabilidad ni responsabilidad por daños directos, indirectos, incidentales, especiales, ejemplares o consecuentes (incluyendo, pero no limitado a: adquisición de bienes o servicios, pérdida y daño de datos, dispositivos o ganancias o interrupción del negocio Sin importar la causa y la teoría de la responsabilidad, ya sea por contrato, responsabilidad estricta, agravio (incluyendo negligencia o de otro tipo), o cualquier otra teoría derivada de cualquier forma fuera del uso de este sistema, incluso si se le informa de la posibilidad de tal daño . Esta renuncia de responsabilidad se aplica a cualquier daño o perjuicio, ya sea basado en un presunto incumplimiento de contrato, comportamiento tortuoso, negligencia o cualquier otra causa de acción, incluyendo pero no limitado a daños o lesiones causados ​​por cualquier fallo de rendimiento, error, omisión o interrupción , Supresión, defecto, retraso en la operación o transmisión, virus informático, falla en la línea de comunicación, y / o robo, destrucción o acceso no autorizado, alteración o uso de cualquier registro.</string>
+<string name="tra_alertbutton_accept">Aceptar</string>
+<string name="bin_str_started">Bin Started</string>
+<string name="bin_str_stopped">Bin Stopped</string>
+<string name="bin_alertbody_quickinstructions">La bandeja de recuperación se activa y desactiva pulsando el botón de reproducción en la barra de acción. Una vez activado, cualquier archivo eliminado se almacenará temporalmente en la bandeja para su restauración o eliminación completa. Para restaurar un archivo, presione +, para eliminar permanentemente un archivo, presione x, para ver una vista previa del archivo, presione i. Para ver el vídeo de instrucciones, haga clic en ver vídeo.</string>
+<string name="bin_alerttitle_quickinstructions">Instrucciones</string>
+<string name="tra_alertbutton_okay">Bueno</string>
+<string name="tra_alertbutton_instructionvideo">Vídeo de instrucciones</string>
+<string name="tra_alertbutton_back">Espalda</string>
+<string name="bin_str_restored">Archivo restaurado</string>
+<string name="bin_str_deleted">el archivo fue eliminado</string>
+<string name="bin_str_delete">Borrar</string>
+<string name="bin_str_restore">Restaurar</string>
+<string name="bin_str_info">Información</string>
+<string name="bin_alerttitle_delete">Confirmar eliminación</string>
+<string name="bin_alertbody_delete">¿Deseas confirmar la eliminación definitiva de este archivo?</string>
+<string name="bin_str_datedeleted">Fecha eliminada:</string>
+
+<string name="protection_folders_category_header">Carpetas de Carpetas Monitorizadas</string>
+<string name="input_protection_folders_header_1">Carpeta de protección de entrada № 1</string>
+<string name="input_protection_folders_header_2">Protección de entrada de la carpeta № 2</string>
+<string name="summary_input_folders">Carpeta de protección</string>
+<string name="select_protection_folders_default_value">Almacenamiento externo y extraíble</string>
+
+
+</resources>

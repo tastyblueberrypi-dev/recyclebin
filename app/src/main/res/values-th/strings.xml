@@ -1,0 +1,35 @@
+<resources>
+
+    <string name="bin_str_deleteall">ลบทั้งหมด</string>
+    <string name="bin_str_recoverall">กู้คืนทั้งหมด</string>
+    <string name="bin_str_service_description">ถังรีไซเคิลใช้บริการนี้</string>
+
+
+    <string name="bin_app_name">ถังกู้คืน</string>
+    <string name="bin_str_emptyfolder">ขณะนี้ Bin [EMPTY] ยังไม่มีสิ่งใดถูกลบ ไฟล์ที่ถูกลบจะแสดงขึ้นที่นี่หลังจากที่คุณลบออก เปิดแอปอีกครั้งสามารถแก้ไขปัญหาส่วนใหญ่ได้ เช่น ไฟล์ไม่แสดงขึ้นหลังจากลบ</string>
+    <string name="tra_alerttitle_terms">เงื่อนไขการใช้งานและข้อจำกัดความรับผิดชอบ</string>
+    <string name="tra_alertbody_disclaimer">แนวทางปฏิบัติที่ดีที่สุดในการสำรองข้อมูลสื่อของอุปกรณ์ก่อนใช้แอพที่เกี่ยวข้องกับไฟล์ AAinc ขอสงวนสิทธิ์ทั้งหมดที่เกี่ยวข้องกับแอพนี้ เราไม่รับผิดชอบและไม่รับผิดชอบต่อความเสียหายโดยตรง โดยอ้อม โดยบังเอิญ พิเศษ ที่เป็นแบบอย่าง หรือเป็นผลสืบเนื่อง (รวมถึงแต่ไม่จำกัดเพียง: การจัดหาสินค้าหรือบริการ ความสูญเสียและความเสียหายของข้อมูล อุปกรณ์ หรือผลกำไร หรือการหยุดชะงักของธุรกิจ ) อย่างไรก็ตาม เกิดขึ้นและบนทฤษฎีความรับผิดใด ๆ ไม่ว่าจะเป็นในสัญญา ความรับผิดอย่างเข้มงวด การละเมิด (รวมถึงความประมาทเลินเล่อหรืออย่างอื่น) หรือทฤษฎีอื่นใดที่เกิดขึ้นจากการใช้ระบบนี้ในทางใดทางหนึ่ง แม้ว่าจะได้รับคำแนะนำถึงความเป็นไปได้ของความเสียหายดังกล่าว . ข้อจำกัดความรับผิดชอบนี้ใช้กับความเสียหายหรือการบาดเจ็บ ไม่ว่าจะอยู่บนพื้นฐานของการกล่าวหาว่าผิดสัญญา พฤติกรรมที่ละเมิด ความประมาท หรือสาเหตุอื่นใดของการดำเนินการ ซึ่งรวมถึงแต่ไม่จำกัดเพียงความเสียหายหรือการบาดเจ็บที่เกิดจากความล้มเหลวในการปฏิบัติงาน ข้อผิดพลาด การละเลย การหยุดชะงัก , การลบ, ข้อบกพร่อง, ความล่าช้าในการดำเนินการหรือการส่งผ่าน, ไวรัสคอมพิวเตอร์, ความล้มเหลวในการสื่อสาร และ/หรือการโจรกรรม, การทำลายหรือการเข้าถึง, การเปลี่ยนแปลง, หรือใช้บันทึกใดๆ</string>
+    <string name="tra_alertbutton_accept">ยอมรับ</string>
+    <string name="bin_str_started">เริ่มบิน</string>
+    <string name="bin_str_stopped">บินหยุด</string>
+    <string name="bin_alertbody_quickinstructions">Recovery Bin เปิดใช้งานและปิดใช้งานโดยการกดปุ่มเล่นในแถบการทำงาน เมื่อเปิดใช้งานแล้ว ไฟล์ที่ถูกลบจะถูกเก็บไว้ชั่วคราวในถังขยะเพื่อการกู้คืนหรือการลบทั้งหมด หากต้องการกู้คืนไฟล์ ให้กด + หากต้องการลบไฟล์อย่างถาวร ให้กด x หากต้องการดูตัวอย่างไฟล์ ให้กด i ดูวิดีโอคำแนะนำ คลิกดูวิดีโอ</string>
+    <string name="bin_alerttitle_quickinstructions">คำแนะนำ</string>
+    <string name="tra_alertbutton_okay">ตกลง</string>
+    <string name="tra_alertbutton_instructionvideo">วีดีโอแนะนำ</string>
+    <string name="tra_alertbutton_back">กลับ</string>
+    <string name="bin_str_restored">กู้คืนไฟล์แล้ว</string>
+    <string name="bin_str_deleted">ไฟล์ถูกลบ</string>
+    <string name="bin_str_delete">ลบ</string>
+    <string name="bin_str_restore">คืนค่า</string>
+    <string name="bin_str_info">ข้อมูล</string>
+    <string name="bin_alerttitle_delete">ยืนยันการลบ</string>
+    <string name="bin_alertbody_delete">โปรดยืนยันเพื่อลบไฟล์นี้อย่างถาวร</string>
+    <string name="bin_str_datedeleted">วันที่ลบ:</string>
+
+    <string name="protection_folders_category_header">โฟลเดอร์ Bin Monitored Folders</string>
+    <string name="input_protection_folders_header_1">โฟลเดอร์ป้องกันการป้อนข้อมูล № 1</string>
+    <string name="input_protection_folders_header_2">โฟลเดอร์ป้องกันการป้อนข้อมูล № 2</string>
+    <string name="summary_input_folders">โฟลเดอร์ป้องกัน</string>
+    <string name="select_protection_folders_default_value">ที่เก็บข้อมูลภายนอกและที่ถอดออกได้</string>
+
+</resources>

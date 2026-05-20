@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_deleteall"
+        android:icon="@drawable/button_delete"
+        android:title="@string/bin_str_deleteall" />
+    <item
+        android:id="@+id/action_restoreall"
+        android:icon="@drawable/button_restore"
+        android:title="@string/bin_str_recoverall"/>
+
+</menu>

@@ -1,0 +1,16 @@
+Executable : C:\TastyBlueberryPI\DevTools\AndroidSDK\cmake\3.6.4111459\bin\cmake.exe
+arguments : 
+-HC:\AA\DevWorkspace\AA-AS-WS\AARecycleBin\app\src\main\cpp
+-BC:\AA\DevWorkspace\AA-AS-WS\AARecycleBin\app\.externalNativeBuild\cmake\debug\x86_64
+-DANDROID_ABI=x86_64
+-DANDROID_PLATFORM=android-21
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\AA\DevWorkspace\AA-AS-WS\AARecycleBin\app\build\intermediates\cmake\debug\obj\x86_64
+-DCMAKE_BUILD_TYPE=Debug
+-DANDROID_NDK=C:\TastyBlueberryPI\DevTools\AndroidSDK\ndk-bundle
+-DCMAKE_CXX_FLAGS=
+-DCMAKE_TOOLCHAIN_FILE=C:\TastyBlueberryPI\DevTools\AndroidSDK\ndk-bundle\build\cmake\android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=C:\TastyBlueberryPI\DevTools\AndroidSDK\cmake\3.6.4111459\bin\ninja.exe
+-GAndroid Gradle - Ninja
+-DANDROID_TOOLCHAIN=gcc
+jvmArgs : 
+

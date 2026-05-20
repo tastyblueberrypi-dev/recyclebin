@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="bin_str_deleteall">Удалить все</string>
+    <string name="bin_str_recoverall">Восстановить все</string>
+    <string name="bin_str_service_description">Корзина использует эту службу</string>
+
+<string name="bin_app_name">Восстановление Bin</string>
+<string name="bin_str_emptyfolder">Восстановление корзина пуста</string>
+<string name="tra_alerttitle_terms">Условия использования и правовая информация Юридическая информация</string>
+<string name="tra_alertbody_disclaimer">Это лучшая практика для резервного копирования мультимедийного устройства перед использованием любого приложения, связанных с файлами. AAinc оставляют за собой все права, связанные с этим приложением. Мы не несем никакой ответственности и никакой ответственности за любые прямые, косвенные, специальные, примерные или косвенные убытки (включая, но не ограничиваясь ими: закупки товаров или услуг, потерю и повреждение данных, устройство или прибыли; или прерывание предпринимательской деятельности ), однако вызвал и на любой теории ответственности, будь то в договоре, строгой ответственностью, деликта (включая небрежность или иным образом), или любая другая теория, возникающие в любом случае из использования этой системы, даже если предупреждена о возможности такого ущерба , Этот отказ от ответственности относится к какой-либо ущерб или травмы, будь то на основе предполагаемого нарушения условий контракта, деликтной поведения, небрежности или какой-либо другой причине, в том числе, но не ограничиваясь ими убытки или повреждения, вызванные любым неработоспособностью, ошибки, упущения, прерывания , удаление, дефекты, задержку в работе или передаче данных, компьютерным вирусом, отказ линии связи, и / или кражи, уничтожения или несанкционированного доступа, изменения или использования каких-либо записей.</string>
+<string name="tra_alertbutton_accept">принимать</string>
+<string name="bin_str_started">Bin работы</string>
+<string name="bin_str_stopped">Бен Остановился</string>
+<string name="bin_alertbody_quickinstructions">Recovery Bin включается и выключается нажатием на кнопку воспроизведения в панели действий. После активации любой удаленный файл будет временно хранится в бункере для восстановления или полного удаления. Чтобы восстановить файл, нажмите +, чтобы навсегда удалить файл, нажмите X, для предварительного просмотра файла, нажмите кнопку I.. Для просмотра видео инструкции, нажмите смотреть видео.</string>
+<string name="bin_alerttitle_quickinstructions">инструкции</string>
+<string name="tra_alertbutton_okay">Хорошо</string>
+<string name="tra_alertbutton_instructionvideo">Инструкция Видео</string>
+<string name="tra_alertbutton_back">назад</string>
+<string name="bin_str_restored">Файл был восстановлен</string>
+<string name="bin_str_deleted">Файл был удален</string>
+<string name="bin_str_delete">Удалить</string>
+<string name="bin_str_restore">Восстановить</string>
+<string name="bin_str_info">Информация</string>
+<string name="bin_alerttitle_delete">Подтвердите удаление</string>
+<string name="bin_alertbody_delete">Пожалуйста, проверьте, чтобы навсегда удалить этот файл?</string>
+<string name="bin_str_datedeleted">Дата Удален:</string>
+
+<string name="protection_folders_category_header">Bin Контролируемые папки Папки</string>
+<string name="input_protection_folders_header_1">Папка Защита входа № 1</string>
+<string name="input_protection_folders_header_2">Папка Защита входа № 2</string>
+<string name="summary_input_folders">папка защиты</string>
+<string name="select_protection_folders_default_value">Внешние и съемные носители</string>
+
+</resources>

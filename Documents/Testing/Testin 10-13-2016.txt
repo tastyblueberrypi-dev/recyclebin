@@ -1,0 +1,2 @@
+- (test done 10-15-2016 through VR) does it hang when deleting many videos using the empty command
+- (test done 10-13-2016 ) language looks good.

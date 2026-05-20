@@ -1,0 +1,35 @@
+<resources>
+
+    <string name="bin_str_deleteall">모두 삭제</string>
+    <string name="bin_str_recoverall">모두 복구</string>
+    <string name="bin_str_service_description">휴지통에서 이 서비스를 사용합니다.</string>
+
+
+    <string name="bin_app_name">복구 빈</string>
+    <string name="bin_str_emptyfolder">Bin은 현재 [비어 있음]이며 아직 삭제된 항목이 없습니다. 삭제된 파일은 삭제한 후 여기에 표시됩니다. 앱을 다시 열면 삭제 후 파일이 표시되지 않는 등 대부분의 문제를 해결할 수 있습니다.</string>
+    <string name="tra_alerttitle_terms">이용약관 및 법적 고지</string>
+    <string name="tra_alertbody_disclaimer">파일 관련 앱을 사용하기 전에 장치 미디어를 백업하는 것이 가장 좋습니다. AAinc는 이 앱과 관련된 모든 권리를 보유합니다. 당사는 직간접적, 우발적, 특별, 예시적 또는 결과적 손해(상품 또는 서비스 조달, 데이터, 장치 또는 이익의 손실 및 손상, 비즈니스 중단을 포함하되 이에 국한되지 않음)에 대해 어떠한 책임도 지지 않습니다. ) 그러나 계약, 엄밀한 책임, 불법 행위(과실 또는 기타 포함) 또는 이 시스템의 사용으로 인해 발생하는 기타 이론에 관계없이 모든 책임 이론에 따라 이러한 손해의 가능성에 대해 조언을 받은 경우에도 마찬가지입니다. . 이 책임 부인은 계약 위반 혐의, 불법 행위, 과실 또는 기타 행위의 원인을 기반으로 하는 모든 손해 또는 부상에 적용되며, 수행 실패, 오류, 누락, 중단으로 인한 손해 또는 부상을 포함하되 이에 국한되지 않습니다. , 삭제, 결함, 작동 또는 전송 지연, 컴퓨터 바이러스, 통신 회선 장애 및/또는 도난, 파괴 또는 기록에 대한 무단 액세스, 변경 또는 사용.</string>
+    <string name="tra_alertbutton_accept">수용하다</string>
+    <string name="bin_str_started">빈 시작됨</string>
+    <string name="bin_str_stopped">빈 중지됨</string>
+    <string name="bin_alertbody_quickinstructions">작업 표시줄에서 재생 버튼을 눌러 복구 상자를 활성화 및 비활성화합니다. 활성화되면 삭제된 파일은 복원 또는 전체 삭제를 위해 임시로 저장소에 저장됩니다. 파일을 복원하려면 +를 누르고 파일을 영구적으로 삭제하려면 x를 누르고 파일 미리보기를 보려면 i를 누릅니다. 지침 비디오를 보려면 비디오 보기를 클릭하십시오.</string>
+    <string name="bin_alerttitle_quickinstructions">지침</string>
+    <string name="tra_alertbutton_okay">괜찮아</string>
+    <string name="tra_alertbutton_instructionvideo">지침 비디오</string>
+    <string name="tra_alertbutton_back">뒤</string>
+    <string name="bin_str_restored">파일이 복원되었습니다.</string>
+    <string name="bin_str_deleted">파일이 삭제되었습니다.</string>
+    <string name="bin_str_delete">삭제</string>
+    <string name="bin_str_restore">복원하다</string>
+    <string name="bin_str_info">정보</string>
+    <string name="bin_alerttitle_delete">삭제 확인</string>
+    <string name="bin_alertbody_delete">이 파일을 영구적으로 삭제하려면 확인하시겠습니까?</string>
+    <string name="bin_str_datedeleted">삭제 날짜:</string>
+
+    <string name="protection_folders_category_header">Bin 모니터링되는 폴더 폴더</string>
+    <string name="input_protection_folders_header_1">입력 보호 폴더 № 1</string>
+    <string name="input_protection_folders_header_2">입력 보호 폴더 № 2</string>
+    <string name="summary_input_folders">보호 폴더</string>
+    <string name="select_protection_folders_default_value">외부 및 이동식 저장소</string>
+
+</resources>

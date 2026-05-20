@@ -1,0 +1,8 @@
+Every year around august, will get a policy violation for site navigation
+This is fixed by a couple of ways
+1. Try appeal with no fix, stating something along the lines of
+"This is false positive detection, same issue was detected in the past on 8/15/2021
+And issue was fixed back then as seen on 1/19/2022. Please check app again because
+This app is compliant"
+2. could be due to seeing no content in the app, try to load up some drawer. Basically
+Site navigation probably means the app doesn't take u anywhere to present u with any content

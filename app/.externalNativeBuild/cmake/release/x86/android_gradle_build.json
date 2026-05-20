@@ -1,0 +1,41 @@
+
+{
+	"buildFiles" : 
+	[
+		"C:/AA/DevWorkspace/AA-AS-WS/AARecycleBin/app/src/main/cpp/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"C:\\TastyBlueberryPI\\DevTools\\AndroidSDK\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\AA\\DevWorkspace\\AA-AS-WS\\AARecycleBin\\app\\.externalNativeBuild\\cmake\\release\\x86 --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"native-lib-Release-x86" : 
+		{
+			"abi" : "x86",
+			"artifactName" : "native-lib",
+			"buildCommand" : "C:\\TastyBlueberryPI\\DevTools\\AndroidSDK\\cmake\\3.6.4111459\\bin\\cmake.exe --build C:\\AA\\DevWorkspace\\AA-AS-WS\\AARecycleBin\\app\\.externalNativeBuild\\cmake\\release\\x86 --target native-lib",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --sysroot=C:/TastyBlueberryPI/DevTools/AndroidSDK/ndk-bundle/platforms/android-14/arch-x86  -Dnative_lib_EXPORTS -isystem C:\\TastyBlueberryPI\\DevTools\\AndroidSDK\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include -isystem C:\\TastyBlueberryPI\\DevTools\\AndroidSDK\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\libs\\x86\\include -isystem C:\\TastyBlueberryPI\\DevTools\\AndroidSDK\\ndk-bundle\\sources\\cxx-stl\\gnu-libstdc++\\4.9\\include\\backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti  -O2 -DNDEBUG -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "C:/AA/DevWorkspace/AA-AS-WS/AARecycleBin/app/src/main/cpp/native-lib.cpp",
+					"workingDirectory" : "C:/AA/DevWorkspace/AA-AS-WS/AARecycleBin/app/.externalNativeBuild/cmake/release/x86"
+				}
+			],
+			"output" : "C:/AA/DevWorkspace/AA-AS-WS/AARecycleBin/app/build/intermediates/cmake/release/obj/x86/libnative-lib.so",
+			"toolchain" : "3137408889"
+		}
+	},
+	"toolchains" : 
+	{
+		"3137408889" : 
+		{
+			"cCompilerExecutable" : "C:/TastyBlueberryPI/DevTools/AndroidSDK/ndk-bundle/toolchains/x86-4.9/prebuilt/windows-x86_64/bin/i686-linux-android-gcc.exe",
+			"cppCompilerExecutable" : "C:/TastyBlueberryPI/DevTools/AndroidSDK/ndk-bundle/toolchains/x86-4.9/prebuilt/windows-x86_64/bin/i686-linux-android-g++.exe"
+		}
+	}
+}

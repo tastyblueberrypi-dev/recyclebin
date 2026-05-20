@@ -1,0 +1,35 @@
+<resources>
+
+    <string name="bin_str_deleteall">Futa Zote</string>
+    <string name="bin_str_recoverall">Rejesha Wote</string>
+    <string name="bin_str_service_description">Recycle Bin Hutumia Huduma Hii</string>
+
+
+    <string name="bin_app_name">Recovery Bin</string>
+    <string name="bin_str_emptyfolder">Bin kwa sasa ni [EMPTY], Hakuna kitu ambacho kimefutwa bado. Faili zilizofutwa zitaonekana hapa baada ya kuzifuta. Kufungua tena programu kunaweza kurekebisha matatizo mengi kama vile faili kutoonekana baada ya kufutwa.</string>
+    <string name="tra_alerttitle_terms">Masharti ya Matumizi na Kanusho la Kisheria</string>
+    <string name="tra_alertbody_disclaimer">Ni mazoezi bora ya kuhifadhi nakala za kifaa kabla ya kutumia programu yoyote inayohusiana na faili. AAinc inahifadhi haki zote zinazohusiana na programu hii. Hatuwajibiki wala hatuwajibiki kwa uharibifu wowote wa moja kwa moja, usio wa moja kwa moja, wa bahati mbaya, maalum, wa kuigwa, au unaofuata (ikiwa ni pamoja na, lakini sio tu: ununuzi wa bidhaa au huduma; hasara na uharibifu wa data, kifaa au faida; au kukatizwa kwa biashara. ) hata hivyo imesababishwa na kwa nadharia yoyote ya dhima, iwe katika mkataba, dhima kali, makosa (ikiwa ni pamoja na uzembe au vinginevyo), au nadharia nyingine yoyote inayotokana na matumizi ya mfumo huu, hata kama itashauriwa juu ya uwezekano wa uharibifu huo. . Kanusho hili la dhima linatumika kwa uharibifu au jeraha lolote, iwe linatokana na madai ya ukiukaji wa mkataba, tabia mbaya, uzembe au sababu nyingine yoyote ya hatua, ikiwa ni pamoja na lakini sio tu uharibifu au majeraha yanayosababishwa na kushindwa kwa utendakazi, hitilafu, kuacha, usumbufu. , kufutwa, kasoro, kucheleweshwa kwa uendeshaji au usambazaji, virusi vya kompyuta, kushindwa kwa njia ya mawasiliano, na/au wizi, uharibifu au ufikiaji usioidhinishwa wa, kubadilisha, au matumizi ya rekodi yoyote.</string>
+    <string name="tra_alertbutton_accept">Kubali</string>
+    <string name="bin_str_started">Bin Alianza</string>
+    <string name="bin_str_stopped">Bin Alisimama</string>
+    <string name="bin_alertbody_quickinstructions">Bin ya Urejeshaji imewashwa na kuzimwa kwa kubonyeza kitufe cha kucheza kwenye upau wa kitendo. Mara baada ya kuanzishwa, faili yoyote iliyofutwa itahifadhiwa kwa muda kwenye pipa kwa ajili ya kurejeshwa au kufutwa kabisa. Ili kurejesha faili, bonyeza +, ili kufuta faili kabisa, bonyeza x, ili kuona onyesho la kukagua faili, bonyeza i. Ili kutazama video ya maagizo, bofya tazama video.</string>
+    <string name="bin_alerttitle_quickinstructions">Maagizo</string>
+    <string name="tra_alertbutton_okay">Sawa</string>
+    <string name="tra_alertbutton_instructionvideo">Video ya maagizo</string>
+    <string name="tra_alertbutton_back">Nyuma</string>
+    <string name="bin_str_restored">Faili imerejeshwa</string>
+    <string name="bin_str_deleted">Faili ilifutwa</string>
+    <string name="bin_str_delete">Futa</string>
+    <string name="bin_str_restore">Rejesha</string>
+    <string name="bin_str_info">Habari</string>
+    <string name="bin_alerttitle_delete">Thibitisha Futa</string>
+    <string name="bin_alertbody_delete">Tafadhali thibitisha ili kufuta faili hii kabisa?</string>
+    <string name="bin_str_datedeleted">Tarehe Iliyofutwa:</string>
+
+    <string name="protection_folders_category_header">Folda za Bin zinazofuatiliwa</string>
+    <string name="input_protection_folders_header_1">Folda ya ulinzi wa ingizo №1</string>
+    <string name="input_protection_folders_header_2">Folda ya ulinzi wa ingizo №2</string>
+    <string name="summary_input_folders">Folda ya ulinzi</string>
+    <string name="select_protection_folders_default_value">Hifadhi ya nje na inayoweza kutolewa</string>
+
+</resources>
