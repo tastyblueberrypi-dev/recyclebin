@@ -5,3 +5,5 @@ local.properties
 *.iml
 .oldBITBUCKETgit/
 .DS_Store
+app/.cxx/
+.claude/
