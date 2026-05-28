@@ -1,27 +1,19 @@
 package com.aainc.recyclebin.ui;
 
 import android.app.Activity;
-import android.app.AlertDialog;
-import android.app.Dialog;
-import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.pm.ActivityInfo;
-import android.net.Uri;
-import android.os.Build;
 import android.os.Bundle;
-import android.os.Environment;
-import android.os.Handler;
-import android.provider.Settings;
-import android.view.View;
 import android.widget.ImageView;
 
 import com.aainc.recyclebin.R;
-import com.aainc.recyclebin.util.Util;
+import com.google.android.ump.ConsentInformation;
+import com.google.android.ump.ConsentRequestParameters;
+import com.google.android.ump.UserMessagingPlatform;
 
 // Logo screen before moving into actual app, This is the entry point into app
 public class Activity_LogoDisclaimer extends Activity {
 
-    private static int timeout = 1000;
     ImageView logodisclaimer = null;
 
     @Override
@@ -31,15 +23,30 @@ public class Activity_LogoDisclaimer extends Activity {
         setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
 
         logodisclaimer = (ImageView) findViewById(R.id.imageview_logodisclaimer);
-        new Handler().postDelayed(new Runnable() {
 
-            @Override
-            public void run() {
-                Intent i = new Intent(Activity_LogoDisclaimer.this, MainActivity.class);
-                startActivity(i);
-                finish();
-            }
-        }, timeout);
+        requestConsentThenProceed();
+    }
 
+    private void requestConsentThenProceed() {
+        ConsentRequestParameters params = new ConsentRequestParameters.Builder()
+                .setTagForUnderAgeOfConsent(false)
+                .build();
+
+        ConsentInformation consentInformation = UserMessagingPlatform.getConsentInformation(this);
+        consentInformation.requestConsentInfoUpdate(this, params,
+                () -> UserMessagingPlatform.loadAndShowConsentFormIfRequired(this, formError -> {
+                    // Consent gathered (or not required) — proceed to app
+                    launchMainActivity();
+                }),
+                requestConsentError -> {
+                    // Could not determine consent status — proceed anyway (non-EEA users)
+                    launchMainActivity();
+                });
+    }
+
+    private void launchMainActivity() {
+        Intent i = new Intent(Activity_LogoDisclaimer.this, MainActivity.class);
+        startActivity(i);
+        finish();
     }
 }
